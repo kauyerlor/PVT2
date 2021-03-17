@@ -1,0 +1,1433 @@
+0.07521499999711523	EXP	Created Window = Window( name=Window, fullscr=true, color=#000000, units=height, waitBlanking=true, autoLog=true, size=[1280,617] )
+3.2641399999993155	DATA	Keydown: e
+4.327355000001262	DATA	Keydown: undefined
+7.193319999998494	EXP	Created text = TextStim( name=text, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=INSTRUCTIONS [EN]
+
+
+A counter will appear and star~, font=Arial, color=#FFFFFF, contrast=1, height=0.03, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+7.194624999996449	EXP	Created text_3 = TextStim( name=text_3, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=null, font=Arial, color=#FFFFFF, contrast=1, height=0.1, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+7.196125000002212	EXP	Created text_2 = TextStim( name=text_2, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=default text, font=Arial, color=#ff0000, contrast=1, height=0.15, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+7.197260000000824	EXP	Created Feedback = TextStim( name=Feedback, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=default text, font=Arial, color=#ff0000, contrast=1, height=0.15, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+7.1977849999966566	EXP	Created End_text = TextStim( name=End_text, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=This study aimed to look at procedural learning, i~, font=Arial, color=#FFFFFF, contrast=1, height=0.025, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+7.357609999999113	EXP	text: units = "height"
+7.357609999999113	EXP	text: ori = 0
+7.357609999999113	EXP	text: opacity = 1
+7.357609999999113	EXP	text: pos = [0,0]
+7.357609999999113	EXP	text: size = undefined
+7.357609999999113	EXP	text: text = "INSTRUCTIONS [EN]\n\n\nA counter will appear and start counting at random times, press SPACE as fast as possible when it appears.\n\n\nPress SPACE to start\n\n-------\n\nInstruções [PT]\n\n\nUm cronómetro vai aparecer e começar a contar aleatoriamente, pressione a tecla SPACE assim que ele aparecer.\n\n\nPressiona SPACE para começar."
+7.357609999999113	EXP	text: font = "Arial"
+7.357609999999113	EXP	text: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+7.357609999999113	EXP	text: contrast = 1
+7.357609999999113	EXP	text: height = 0.03
+7.357609999999113	EXP	text: bold = false
+7.357609999999113	EXP	text: italic = false
+7.357609999999113	EXP	text: alignHoriz = "left"
+7.357609999999113	EXP	text: alignVert = "center"
+7.357609999999113	EXP	text: wrapWidth = 1
+7.357609999999113	EXP	text: flipHoriz = false
+7.357609999999113	EXP	text: flipVert = false
+7.357609999999113	EXP	text_3: units = "height"
+7.357609999999113	EXP	text_3: ori = 0
+7.357609999999113	EXP	text_3: opacity = 1
+7.357609999999113	EXP	text_3: pos = [0,0]
+7.357609999999113	EXP	text_3: size = undefined
+7.357609999999113	EXP	text_3: text = ""
+7.357609999999113	EXP	text_3: font = "Arial"
+7.357609999999113	EXP	text_3: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+7.357609999999113	EXP	text_3: contrast = 1
+7.357609999999113	EXP	text_3: height = 0.1
+7.357609999999113	EXP	text_3: bold = false
+7.357609999999113	EXP	text_3: italic = false
+7.357609999999113	EXP	text_3: alignHoriz = "left"
+7.357609999999113	EXP	text_3: alignVert = "center"
+7.357609999999113	EXP	text_3: wrapWidth = 1
+7.357609999999113	EXP	text_3: flipHoriz = false
+7.357609999999113	EXP	text_3: flipVert = false
+7.357609999999113	EXP	text_2: units = "height"
+7.357609999999113	EXP	text_2: ori = 0
+7.357609999999113	EXP	text_2: opacity = 1
+7.357609999999113	EXP	text_2: pos = [0,0]
+7.357609999999113	EXP	text_2: size = undefined
+7.357609999999113	EXP	text_2: text = "default text"
+7.357609999999113	EXP	text_2: font = "Arial"
+7.357609999999113	EXP	text_2: color = {"_rgb":[1,0,0]}
+7.357609999999113	EXP	text_2: contrast = 1
+7.357609999999113	EXP	text_2: height = 0.15
+7.357609999999113	EXP	text_2: bold = false
+7.357609999999113	EXP	text_2: italic = false
+7.357609999999113	EXP	text_2: alignHoriz = "left"
+7.357609999999113	EXP	text_2: alignVert = "center"
+7.357609999999113	EXP	text_2: wrapWidth = 1
+7.357609999999113	EXP	text_2: flipHoriz = false
+7.357609999999113	EXP	text_2: flipVert = false
+7.357609999999113	EXP	Feedback: units = "height"
+7.357609999999113	EXP	Feedback: ori = 0
+7.357609999999113	EXP	Feedback: opacity = 1
+7.357609999999113	EXP	Feedback: pos = [0,0]
+7.357609999999113	EXP	Feedback: size = undefined
+7.357609999999113	EXP	Feedback: text = "default text"
+7.357609999999113	EXP	Feedback: font = "Arial"
+7.357609999999113	EXP	Feedback: color = {"_rgb":[1,0,0]}
+7.357609999999113	EXP	Feedback: contrast = 1
+7.357609999999113	EXP	Feedback: height = 0.15
+7.357609999999113	EXP	Feedback: bold = false
+7.357609999999113	EXP	Feedback: italic = false
+7.357609999999113	EXP	Feedback: alignHoriz = "left"
+7.357609999999113	EXP	Feedback: alignVert = "center"
+7.357609999999113	EXP	Feedback: wrapWidth = 1
+7.357609999999113	EXP	Feedback: flipHoriz = false
+7.357609999999113	EXP	Feedback: flipVert = false
+7.357609999999113	EXP	End_text: units = "height"
+7.357609999999113	EXP	End_text: ori = 0
+7.357609999999113	EXP	End_text: opacity = 1
+7.357609999999113	EXP	End_text: pos = [0,0]
+7.357609999999113	EXP	End_text: size = undefined
+7.357609999999113	EXP	End_text: text = "This study aimed to look at procedural learning, i.e. our ability to extract patterns from the input that we are constantly receiving. This skill is thought to be essential for language and literacy acquisition and has been suggested as a possible underlying difficult in children with Language Impairments and Dyslexia. This study aims to improve the measures of procedural learning (the smiley face task) so that we can measure procedural learning more reliably and, in the future, analyse the performance of individuals with learning impairments.\nThank you for participating!\n\n----\n\nEste estudo tem como objectivo analisar a nossa capacidade de extrair padrões da informação que estamos constantemente a receber. Pensa-se que esta competência é essencial para a aquisição da linguagem e literacia e foi sugerido que dificuldades neste tipo de competências poderá estar relacionado com perturbações da linguagem e Dislexia. Este estudo tem como objectivo melhorar a estabilidade das medidas usadas para medir este tipo de memória (a tarefa da cara sorridente) de forma a poder medir de forma mais precisa e, no futuro, analisar a performance de indivíduos com perturbações da aprendizagem. \nMuito obrigada por ter participado!"
+7.357609999999113	EXP	End_text: font = "Arial"
+7.357609999999113	EXP	End_text: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+7.357609999999113	EXP	End_text: contrast = 1
+7.357609999999113	EXP	End_text: height = 0.025
+7.357609999999113	EXP	End_text: bold = false
+7.357609999999113	EXP	End_text: italic = false
+7.357609999999113	EXP	End_text: alignHoriz = "left"
+7.357609999999113	EXP	End_text: alignVert = "center"
+7.357609999999113	EXP	End_text: wrapWidth = 1
+7.357609999999113	EXP	End_text: flipHoriz = false
+7.357609999999113	EXP	End_text: flipVert = false
+7.357609999999113	EXP	text: autoDraw = true
+12.16619499999797	DATA	Keydown:  
+12.183960000002116	EXP	text: autoDraw = false
+12.183960000002116	EXP	text_3: autoDraw = true
+17.486669999998412	EXP	text_3: autoDraw = false
+17.486669999998412	EXP	text_3: autoDraw = false
+17.486669999998412	EXP	text_2: autoDraw = true
+17.486669999998412	EXP	text_2: text = 1
+17.512009999998554	EXP	text_2: text = 50
+17.531349999997474	EXP	text_2: text = 66
+17.543619999996736	EXP	text_2: text = 83
+17.56377000000066	EXP	text_2: text = 101
+17.577440000000934	EXP	text_2: text = 116
+17.594639999995707	EXP	text_2: text = 133
+17.610540000001492	EXP	text_2: text = 149
+17.630004999999073	EXP	text_2: text = 166
+17.644334999997227	EXP	text_2: text = 183
+17.661379999997735	EXP	text_2: text = 200
+17.67879499999981	EXP	text_2: text = 217
+17.694109999996726	EXP	text_2: text = 233
+17.711624999996275	EXP	text_2: text = 251
+17.72757499999716	EXP	text_2: text = 267
+17.744489999997313	EXP	text_2: text = 283
+17.761435000000347	EXP	text_2: text = 301
+17.764224999998987	DATA	Keydown:  
+17.78164000000106	EXP	text_2: text = 321
+17.78164000000106	EXP	text_2: autoDraw = false
+17.78164000000106	EXP	Feedback: text = 278
+17.78164000000106	EXP	Feedback: autoDraw = true
+18.779790000000503	EXP	Feedback: autoDraw = false
+18.779790000000503	EXP	Feedback: autoDraw = false
+18.779790000000503	EXP	text_3: autoDraw = true
+24.015180000002147	EXP	text_3: autoDraw = false
+24.015180000002147	EXP	text_3: autoDraw = false
+24.015180000002147	EXP	text_2: autoDraw = true
+24.015180000002147	EXP	text_2: text = 0
+24.029875000000175	EXP	text_2: text = 16
+24.04677499999525	EXP	text_2: text = 32
+24.063340000000608	EXP	text_2: text = 49
+24.080040000000736	EXP	text_2: text = 66
+24.09692499999801	EXP	text_2: text = 82
+24.1140149999992	EXP	text_2: text = 100
+24.131294999999227	EXP	text_2: text = 116
+24.147440000000643	EXP	text_2: text = 133
+24.16711000000214	EXP	text_2: text = 155
+24.19833999999537	EXP	text_2: text = 183
+24.214449999999488	EXP	text_2: text = 200
+24.23051000000123	EXP	text_2: text = 216
+24.247434999997495	EXP	text_2: text = 233
+24.2644650000002	EXP	text_2: text = 251
+24.280384999998205	EXP	text_2: text = 266
+24.297209999996994	EXP	text_2: text = 283
+24.31443500000023	EXP	text_2: text = 300
+24.319814999995288	DATA	Keydown:  
+24.34119500000088	EXP	text_2: text = 327
+24.34119500000088	EXP	text_2: autoDraw = false
+24.34119500000088	EXP	Feedback: text = 305
+24.34119500000088	EXP	Feedback: autoDraw = true
+25.33032000000094	EXP	Feedback: autoDraw = false
+25.33032000000094	EXP	Feedback: autoDraw = false
+25.33032000000094	EXP	text_3: autoDraw = true
+31.385190000000875	EXP	text_3: autoDraw = false
+31.385190000000875	EXP	text_3: autoDraw = false
+31.385190000000875	EXP	text_2: autoDraw = true
+31.385190000000875	EXP	text_2: text = 0
+31.400674999997136	EXP	text_2: text = 17
+31.4183950000006	EXP	text_2: text = 33
+31.433844999999565	EXP	text_2: text = 49
+31.45161999999982	EXP	text_2: text = 67
+31.4679049999977	EXP	text_2: text = 84
+31.483809999997902	EXP	text_2: text = 99
+31.501100000001315	EXP	text_2: text = 117
+31.518120000000636	EXP	text_2: text = 135
+31.534654999995837	EXP	text_2: text = 151
+31.550790000001143	EXP	text_2: text = 167
+31.56806499999948	EXP	text_2: text = 183
+31.584224999998696	EXP	text_2: text = 200
+31.602334999995946	EXP	text_2: text = 219
+31.619874999996682	EXP	text_2: text = 237
+31.621110000000044	DATA	Keydown:  
+31.653140000002168	EXP	text_2: text = 268
+31.653140000002168	EXP	text_2: autoDraw = false
+31.653140000002168	EXP	Feedback: text = 236
+31.653140000002168	EXP	Feedback: autoDraw = true
+32.65184500000032	EXP	Feedback: autoDraw = false
+32.65184500000032	EXP	Feedback: autoDraw = false
+32.65184500000032	EXP	text_3: autoDraw = true
+35.554510000001756	EXP	text_3: autoDraw = false
+35.554510000001756	EXP	text_3: autoDraw = false
+35.554510000001756	EXP	text_2: autoDraw = true
+35.554510000001756	EXP	text_2: text = 0
+35.568670000000566	EXP	text_2: text = 15
+35.58664000000135	EXP	text_2: text = 33
+35.60250000000087	EXP	text_2: text = 48
+35.61969500000123	EXP	text_2: text = 67
+35.63649499999883	EXP	text_2: text = 82
+35.653269999995246	EXP	text_2: text = 99
+35.670420000002196	EXP	text_2: text = 117
+35.685975000000326	EXP	text_2: text = 132
+35.702964999996766	EXP	text_2: text = 149
+35.71975999999995	EXP	text_2: text = 165
+35.73683499999606	EXP	text_2: text = 183
+35.75333500000124	EXP	text_2: text = 199
+35.7702649999992	EXP	text_2: text = 217
+35.78667999999743	EXP	text_2: text = 233
+35.80394499999966	EXP	text_2: text = 250
+35.81844999999885	EXP	text_2: text = 267
+35.837744999997085	EXP	text_2: text = 286
+35.8541699999987	EXP	text_2: text = 301
+35.87140499999805	EXP	text_2: text = 320
+35.876384999995935	DATA	Keydown:  
+35.88895000000048	EXP	text_2: text = 335
+35.88895000000048	EXP	text_2: autoDraw = false
+35.88895000000048	EXP	Feedback: text = 322
+35.88895000000048	EXP	Feedback: autoDraw = true
+36.887049999997544	EXP	Feedback: autoDraw = false
+36.887049999997544	EXP	Feedback: autoDraw = false
+36.887049999997544	EXP	text_3: autoDraw = true
+40.872354999999516	EXP	text_3: autoDraw = false
+40.872354999999516	EXP	text_3: autoDraw = false
+40.872354999999516	EXP	text_2: autoDraw = true
+40.872354999999516	EXP	text_2: text = 0
+40.88895500000217	EXP	text_2: text = 18
+40.90501499999664	EXP	text_2: text = 33
+40.923165000000154	EXP	text_2: text = 51
+40.93901999999798	EXP	text_2: text = 67
+40.95581999999558	EXP	text_2: text = 83
+40.97234999999637	EXP	text_2: text = 99
+40.988915000001725	EXP	text_2: text = 117
+41.00561500000185	EXP	text_2: text = 133
+41.022830000001704	EXP	text_2: text = 150
+41.03893000000244	EXP	text_2: text = 167
+41.0558699999965	EXP	text_2: text = 184
+41.07205499999691	EXP	text_2: text = 200
+41.08810000000085	EXP	text_2: text = 216
+41.10611500000232	EXP	text_2: text = 235
+41.13981500000227	EXP	text_2: text = 269
+41.150580000001355	DATA	Keydown:  
+41.16031999999541	EXP	text_2: text = 290
+41.16031999999541	EXP	text_2: autoDraw = false
+41.16031999999541	EXP	Feedback: text = 278
+41.16031999999541	EXP	Feedback: autoDraw = true
+41.42288499999995	DATA	Keydown:  
+41.922505000002275	DATA	Keydown:  
+42.006099999998696	DATA	Keydown:  
+42.08944999999949	DATA	Keydown:  
+42.155800000000454	EXP	Feedback: autoDraw = false
+42.155800000000454	EXP	Feedback: autoDraw = false
+42.155800000000454	EXP	text_3: autoDraw = true
+42.172890000001644	DATA	Keydown:  
+42.25672499999928	DATA	Keydown:  
+42.33980000000156	DATA	Keydown:  
+42.42300999999861	DATA	Keydown:  
+42.50639999999839	DATA	Keydown:  
+42.59007500000007	DATA	Keydown:  
+42.67350499999884	DATA	Keydown:  
+42.756789999999455	DATA	Keydown:  
+42.83965000000171	DATA	Keydown:  
+42.924144999997225	DATA	Keydown:  
+43.006820000002335	DATA	Keydown:  
+43.091370000001916	DATA	Keydown:  
+43.174144999997225	DATA	Keydown:  
+43.257724999995844	DATA	Keydown:  
+43.34201500000199	DATA	Keydown:  
+43.42532999999821	DATA	Keydown:  
+43.50968499999726	DATA	Keydown:  
+43.59220999999525	DATA	Keydown:  
+43.67637999999715	DATA	Keydown:  
+43.7595949999959	DATA	Keydown:  
+43.84229999999661	DATA	Keydown:  
+43.92639999999665	DATA	Keydown:  
+44.00982999999542	DATA	Keydown:  
+44.093199999995704	DATA	Keydown:  
+44.175750000002154	DATA	Keydown:  
+44.26052499999787	DATA	Keydown:  
+44.34363999999914	DATA	Keydown:  
+44.427035000000615	DATA	Keydown:  
+44.50993500000186	DATA	Keydown:  
+44.592854999995325	DATA	Keydown:  
+44.677004999997735	DATA	Keydown:  
+44.76084499999706	DATA	Keydown:  
+44.84424500000023	DATA	Keydown:  
+44.926699999996345	DATA	Keydown:  
+45.010034999999334	DATA	Keydown:  
+45.093965000000026	DATA	Keydown:  
+45.17670999999973	DATA	Keydown:  
+45.25978500000201	DATA	Keydown:  
+45.34328000000096	DATA	Keydown:  
+45.427504999999655	DATA	Keydown:  
+45.5110199999981	DATA	Keydown:  
+45.59416500000225	DATA	Keydown:  
+45.677669999997306	DATA	Keydown:  
+45.76127499999711	DATA	Keydown:  
+45.844584999998915	DATA	Keydown:  
+45.92784499999834	DATA	Keydown:  
+46.010434999996505	DATA	Keydown:  
+46.09468499999639	DATA	Keydown:  
+46.17782499999885	DATA	Keydown:  
+46.26113500000065	DATA	Keydown:  
+46.345399999998335	DATA	Keydown:  
+46.42833999999857	DATA	Keydown:  
+46.51195000000007	DATA	Keydown:  
+46.594544999999925	DATA	Keydown:  
+46.6785699999964	DATA	Keydown:  
+46.76172499999666	DATA	Keydown:  
+46.8449449999971	DATA	Keydown:  
+46.928399999997055	DATA	Keydown:  
+47.01152500000171	DATA	Keydown:  
+47.095009999997274	DATA	Keydown:  
+47.17852999999741	DATA	Keydown:  
+47.26236500000232	DATA	Keydown:  
+47.345594999998866	DATA	Keydown:  
+47.42891999999847	DATA	Keydown:  
+47.51145499999984	DATA	Keydown:  
+47.5943150000021	DATA	Keydown:  
+47.67759500000102	DATA	Keydown:  
+47.76165999999648	DATA	Keydown:  
+47.84500499999558	DATA	Keydown:  
+47.9282549999989	DATA	Keydown:  
+48.0116149999958	DATA	Keydown:  
+48.095164999998815	DATA	Keydown:  
+48.17827499999839	DATA	Keydown:  
+48.26144000000204	DATA	Keydown:  
+48.34541999999783	DATA	Keydown:  
+48.42872499999794	DATA	Keydown:  
+48.51063499999873	DATA	Keydown:  
+48.594704999995884	DATA	Keydown:  
+48.67841000000044	DATA	Keydown:  
+48.76215000000229	DATA	Keydown:  
+48.84552999999869	DATA	Keydown:  
+48.92865499999607	DATA	Keydown:  
+49.01225999999588	DATA	Keydown:  
+49.09607999999571	DATA	Keydown:  
+49.17983000000095	DATA	Keydown:  
+49.26303000000189	DATA	Keydown:  
+49.34553500000038	DATA	Keydown:  
+49.429064999996626	DATA	Keydown:  
+49.51295499999833	DATA	Keydown:  
+49.59612499999639	DATA	Keydown:  
+49.6785499999969	DATA	Keydown:  
+49.76303499999631	DATA	Keydown:  
+49.84644499999558	DATA	Keydown:  
+49.92874999999913	DATA	Keydown:  
+50.012894999999844	DATA	Keydown:  
+50.09629000000132	DATA	Keydown:  
+50.17837000000145	DATA	Keydown:  
+50.26264000000083	DATA	Keydown:  
+50.34649499999796	DATA	Keydown:  
+50.429980000000796	DATA	Keydown:  
+50.513169999998354	DATA	Keydown:  
+50.59657999999763	DATA	Keydown:  
+50.678744999997434	DATA	Keydown:  
+50.76259500000015	DATA	Keydown:  
+50.84691999999632	DATA	Keydown:  
+50.87677999999869	EXP	text_3: autoDraw = false
+50.87677999999869	EXP	text_3: autoDraw = false
+50.87677999999869	EXP	text_2: autoDraw = true
+50.87677999999869	EXP	text_2: text = 0
+50.893270000000484	EXP	text_2: text = 17
+50.909184999996796	EXP	text_2: text = 33
+50.92759500000102	EXP	text_2: text = 50
+50.930914999997185	DATA	Keydown:  
+50.94357499999751	EXP	text_2: text = 67
+50.960729999998875	EXP	text_2: text = 84
+50.97705000000133	EXP	text_2: text = 100
+50.99325500000123	EXP	text_2: text = 117
+51.01051500000176	EXP	text_2: text = 133
+51.014179999998305	DATA	Keydown:  
+51.02707999999984	EXP	text_2: text = 150
+51.04391999999643	EXP	text_2: text = 168
+51.05975999999646	EXP	text_2: text = 183
+51.07795500000066	EXP	text_2: text = 201
+51.09301499999856	EXP	text_2: text = 216
+51.09731499999907	DATA	Keydown:  
+51.11056000000099	EXP	text_2: text = 233
+51.127394999995886	EXP	text_2: text = 251
+51.14318999999523	EXP	text_2: text = 266
+51.16035499999998	EXP	text_2: text = 284
+51.17865499999607	EXP	text_2: text = 304
+51.18281500000012	DATA	Keydown:  
+51.19419999999809	EXP	text_2: text = 320
+51.21132000000216	EXP	text_2: text = 336
+51.22941500000161	EXP	text_2: text = 355
+51.24155500000052	EXP	text_2: text = 367
+51.26174000000174	EXP	text_2: text = 385
+51.27741999999853	EXP	text_2: text = 401
+51.29355999999825	EXP	text_2: text = 417
+51.31098000000202	EXP	text_2: text = 434
+51.327149999997346	EXP	text_2: text = 450
+51.345045000001846	EXP	text_2: text = 467
+51.360414999995555	EXP	text_2: text = 484
+51.37721500000043	EXP	text_2: text = 500
+51.39478499999677	EXP	text_2: text = 518
+51.409679999997024	EXP	text_2: text = 535
+51.4276400000017	EXP	text_2: text = 553
+51.44389999999839	EXP	text_2: text = 568
+51.46209999999701	EXP	text_2: text = 587
+51.476660000000265	EXP	text_2: text = 600
+51.49455999999918	EXP	text_2: text = 617
+51.51049000000057	EXP	text_2: text = 634
+51.52730999999767	EXP	text_2: text = 650
+51.54471499999636	EXP	text_2: text = 667
+51.560615000002144	EXP	text_2: text = 684
+51.57158999999956	DATA	Keydown:  
+51.581664999997884	EXP	text_2: text = 706
+51.581664999997884	EXP	text_2: autoDraw = false
+51.581664999997884	EXP	Feedback: text = 695
+51.581664999997884	EXP	Feedback: autoDraw = true
+52.577870000000985	EXP	Feedback: autoDraw = false
+52.577870000000985	EXP	Feedback: autoDraw = false
+52.577870000000985	EXP	text_3: autoDraw = true
+61.749595000001136	EXP	text_3: autoDraw = false
+61.749595000001136	EXP	text_3: autoDraw = false
+61.749595000001136	EXP	text_2: autoDraw = true
+61.749595000001136	EXP	text_2: text = 0
+61.76546999999846	EXP	text_2: text = 16
+61.781849999999395	EXP	text_2: text = 33
+61.798940000000584	EXP	text_2: text = 50
+61.81525500000134	EXP	text_2: text = 66
+61.83172999999806	EXP	text_2: text = 83
+61.84830499999953	EXP	text_2: text = 99
+61.86505999999645	EXP	text_2: text = 116
+61.88210999999865	EXP	text_2: text = 133
+61.89841499999602	EXP	text_2: text = 149
+61.9152150000009	EXP	text_2: text = 166
+61.93285499999911	EXP	text_2: text = 183
+61.94855999999709	EXP	text_2: text = 199
+61.96479499999987	EXP	text_2: text = 216
+61.982239999997546	EXP	text_2: text = 232
+61.998749999998836	EXP	text_2: text = 250
+62.01635499999975	EXP	text_2: text = 267
+62.03209000000061	EXP	text_2: text = 285
+62.03340500000195	DATA	Keydown:  
+62.04956500000117	EXP	text_2: text = 299
+62.04956500000117	EXP	text_2: autoDraw = false
+62.04956500000117	EXP	Feedback: text = 284
+62.04956500000117	EXP	Feedback: autoDraw = true
+63.04883500000142	EXP	Feedback: autoDraw = false
+63.04883500000142	EXP	Feedback: autoDraw = false
+63.04883500000142	EXP	text_3: autoDraw = true
+70.98782999999821	EXP	text_3: autoDraw = false
+70.98782999999821	EXP	text_3: autoDraw = false
+70.98782999999821	EXP	text_2: autoDraw = true
+70.98782999999821	EXP	text_2: text = 0
+71.00252000000182	EXP	text_2: text = 16
+71.01948999999877	EXP	text_2: text = 33
+71.0372950000019	EXP	text_2: text = 50
+71.05264999999781	EXP	text_2: text = 66
+71.0697749999963	EXP	text_2: text = 84
+71.08640999999625	EXP	text_2: text = 100
+71.10292499999923	EXP	text_2: text = 116
+71.11981999999989	EXP	text_2: text = 133
+71.13603000000148	EXP	text_2: text = 149
+71.15318999999727	EXP	text_2: text = 166
+71.17067500000121	EXP	text_2: text = 183
+71.18680499999755	EXP	text_2: text = 200
+71.20266499999707	EXP	text_2: text = 216
+71.21810499999992	EXP	text_2: text = 234
+71.23782499999652	EXP	text_2: text = 252
+71.25540499999624	EXP	text_2: text = 270
+71.27061500000127	EXP	text_2: text = 282
+71.27199499999551	DATA	Keydown:  
+71.2870849999963	EXP	text_2: text = 300
+71.2870849999963	EXP	text_2: autoDraw = false
+71.2870849999963	EXP	Feedback: text = 284
+71.2870849999963	EXP	Feedback: autoDraw = true
+72.28689499999746	EXP	Feedback: autoDraw = false
+72.28689499999746	EXP	Feedback: autoDraw = false
+72.28689499999746	EXP	text_3: autoDraw = true
+81.39210499999899	EXP	text_3: autoDraw = false
+81.39210499999899	EXP	text_3: autoDraw = false
+81.39210499999899	EXP	text_2: autoDraw = true
+81.39210499999899	EXP	text_2: text = 0
+81.40785999999935	EXP	text_2: text = 16
+81.42433000000165	EXP	text_2: text = 33
+81.44066999999632	EXP	text_2: text = 50
+81.45842499999708	EXP	text_2: text = 66
+81.47490499999549	EXP	text_2: text = 84
+81.49121500000183	EXP	text_2: text = 99
+81.5081349999964	EXP	text_2: text = 116
+81.52433000000019	EXP	text_2: text = 133
+81.54185000000143	EXP	text_2: text = 150
+81.55858499999886	EXP	text_2: text = 167
+81.57502499999828	EXP	text_2: text = 184
+81.59137000000192	EXP	text_2: text = 200
+81.60843500000192	EXP	text_2: text = 217
+81.62438499999553	EXP	text_2: text = 233
+81.64216499999748	EXP	text_2: text = 249
+81.67495000000054	EXP	text_2: text = 283
+81.691859999999	EXP	text_2: text = 300
+81.71016999999847	EXP	text_2: text = 317
+81.71163499999966	DATA	Keydown:  
+81.72580000000016	EXP	text_2: text = 333
+81.72580000000016	EXP	text_2: autoDraw = false
+81.72580000000016	EXP	Feedback: text = 320
+81.72580000000016	EXP	Feedback: autoDraw = true
+82.72458999999799	EXP	Feedback: autoDraw = false
+82.72458999999799	EXP	Feedback: autoDraw = false
+82.72458999999799	EXP	text_3: autoDraw = true
+88.19619000000239	EXP	text_3: autoDraw = false
+88.19619000000239	EXP	text_3: autoDraw = false
+88.19619000000239	EXP	text_2: autoDraw = true
+88.19619000000239	EXP	text_2: text = 0
+88.21091499999602	EXP	text_2: text = 17
+88.22808999999688	EXP	text_2: text = 33
+88.24425999999949	EXP	text_2: text = 50
+88.26177499999903	EXP	text_2: text = 67
+88.27785500000027	EXP	text_2: text = 83
+88.29411499999696	EXP	text_2: text = 99
+88.31083999999828	EXP	text_2: text = 116
+88.32734499999788	EXP	text_2: text = 133
+88.34496000000217	EXP	text_2: text = 150
+88.36045999999624	EXP	text_2: text = 166
+88.37856499999907	EXP	text_2: text = 185
+88.39429999999993	EXP	text_2: text = 200
+88.41294999999809	EXP	text_2: text = 221
+88.43323499999678	EXP	text_2: text = 242
+88.46147000000201	EXP	text_2: text = 267
+88.4785950000005	EXP	text_2: text = 285
+88.49543999999878	EXP	text_2: text = 300
+88.5107349999962	EXP	text_2: text = 316
+88.52843500000017	EXP	text_2: text = 334
+88.54580500000156	EXP	text_2: text = 351
+88.56167999999889	EXP	text_2: text = 367
+88.57823999999528	EXP	text_2: text = 384
+88.59511999999813	EXP	text_2: text = 400
+88.61157499999536	EXP	text_2: text = 417
+88.6285149999967	EXP	text_2: text = 437
+88.66184999999678	EXP	text_2: text = 467
+88.67831999999908	EXP	text_2: text = 483
+88.69555499999842	EXP	text_2: text = 500
+88.6967650000006	DATA	Keydown:  
+88.71259999999893	EXP	text_2: text = 518
+88.71259999999893	EXP	text_2: autoDraw = false
+88.71259999999893	EXP	Feedback: text = 501
+88.71259999999893	EXP	Feedback: autoDraw = true
+89.71178499999951	EXP	Feedback: autoDraw = false
+89.71178499999951	EXP	Feedback: autoDraw = false
+89.71178499999951	EXP	text_3: autoDraw = true
+93.95313499999611	DATA	Keydown:  
+94.48077999999805	DATA	Keydown:  
+95.0978299999988	DATA	Keydown:  
+95.69859500000166	DATA	Keydown:  
+96.35199499999726	DATA	Keydown:  
+97.25014499999816	EXP	text_3: autoDraw = false
+97.25014499999816	EXP	text_3: autoDraw = false
+97.25014499999816	EXP	text_2: autoDraw = true
+97.25014499999816	EXP	text_2: text = 0
+97.26546499999677	EXP	text_2: text = 18
+97.28205000000162	EXP	text_2: text = 33
+97.29885500000091	EXP	text_2: text = 50
+97.31580499999836	EXP	text_2: text = 67
+97.33255999999528	EXP	text_2: text = 83
+97.34920499999862	EXP	text_2: text = 99
+97.36556500000006	EXP	text_2: text = 118
+97.38204499999847	EXP	text_2: text = 133
+97.39925000000221	EXP	text_2: text = 150
+97.41511999999784	EXP	text_2: text = 166
+97.43267499999638	EXP	text_2: text = 185
+97.44758999999613	EXP	text_2: text = 201
+97.46633999999904	EXP	text_2: text = 221
+97.48514499999874	EXP	text_2: text = 238
+97.49869500000204	EXP	text_2: text = 250
+97.51639499999874	EXP	text_2: text = 269
+97.53190000000177	EXP	text_2: text = 283
+97.55002999999851	EXP	text_2: text = 300
+97.55349500000011	DATA	Keydown:  
+97.56661499999609	EXP	text_2: text = 316
+97.56661499999609	EXP	text_2: autoDraw = false
+97.56661499999609	EXP	Feedback: text = 303
+97.56661499999609	EXP	Feedback: autoDraw = true
+98.56588000000193	EXP	Feedback: autoDraw = false
+98.56588000000193	EXP	Feedback: autoDraw = false
+98.56588000000193	EXP	text_3: autoDraw = true
+102.98545500000182	EXP	text_3: autoDraw = false
+102.98545500000182	EXP	text_3: autoDraw = false
+102.98545500000182	EXP	text_2: autoDraw = true
+102.98545500000182	EXP	text_2: text = 0
+103.001734999998	EXP	text_2: text = 17
+103.01862499999697	EXP	text_2: text = 33
+103.0500400000019	EXP	text_2: text = 63
+103.06962000000203	EXP	text_2: text = 86
+103.08696999999665	EXP	text_2: text = 104
+103.10156499999721	EXP	text_2: text = 116
+103.11912999999913	EXP	text_2: text = 135
+103.13504999999714	EXP	text_2: text = 149
+103.15181499999744	EXP	text_2: text = 166
+103.16893500000151	EXP	text_2: text = 183
+103.18611000000237	EXP	text_2: text = 201
+103.20247999999992	EXP	text_2: text = 216
+103.21882499999629	EXP	text_2: text = 233
+103.2352649999957	EXP	text_2: text = 250
+103.25149999999849	EXP	text_2: text = 266
+103.26918499999738	EXP	text_2: text = 285
+103.2873099999997	EXP	text_2: text = 299
+103.28860500000155	DATA	Keydown:  
+103.30243999999948	EXP	text_2: text = 317
+103.30243999999948	EXP	text_2: autoDraw = false
+103.30243999999948	EXP	Feedback: text = 303
+103.30243999999948	EXP	Feedback: autoDraw = true
+104.30294499999582	EXP	Feedback: autoDraw = false
+104.30294499999582	EXP	Feedback: autoDraw = false
+104.30294499999582	EXP	text_3: autoDraw = true
+112.87368499999866	EXP	text_3: autoDraw = false
+112.87368499999866	EXP	text_3: autoDraw = false
+112.87368499999866	EXP	text_2: autoDraw = true
+112.87368499999866	EXP	text_2: text = 0
+112.88999499999773	EXP	text_2: text = 16
+112.90591499999573	EXP	text_2: text = 33
+112.92369999999937	EXP	text_2: text = 50
+112.93948999999702	EXP	text_2: text = 66
+112.95645499999955	EXP	text_2: text = 83
+112.9722449999972	EXP	text_2: text = 100
+112.98889999999665	EXP	text_2: text = 116
+113.00613999999769	EXP	text_2: text = 134
+113.02315499999531	EXP	text_2: text = 150
+113.0401950000014	EXP	text_2: text = 167
+113.05601999999635	EXP	text_2: text = 183
+113.07333500000095	EXP	text_2: text = 201
+113.08960999999545	EXP	text_2: text = 216
+113.10633000000234	EXP	text_2: text = 233
+113.12364499999967	EXP	text_2: text = 251
+113.1394700000019	EXP	text_2: text = 266
+113.1571399999957	EXP	text_2: text = 283
+113.17265000000043	EXP	text_2: text = 300
+113.1915749999971	EXP	text_2: text = 317
+113.1927549999964	DATA	Keydown:  
+113.20705499999895	EXP	text_2: text = 334
+113.20705499999895	EXP	text_2: autoDraw = false
+113.20705499999895	EXP	Feedback: text = 319
+113.20705499999895	EXP	Feedback: autoDraw = true
+114.20657499999652	EXP	Feedback: autoDraw = false
+114.20657499999652	EXP	Feedback: autoDraw = false
+114.20657499999652	EXP	text_3: autoDraw = true
+118.4273549999998	EXP	text_3: autoDraw = false
+118.4273549999998	EXP	text_3: autoDraw = false
+118.4273549999998	EXP	text_2: autoDraw = true
+118.4273549999998	EXP	text_2: text = 0
+118.44277499999589	EXP	text_2: text = 14
+118.45958999999857	EXP	text_2: text = 31
+118.47624499999802	EXP	text_2: text = 49
+118.49188999999751	EXP	text_2: text = 64
+118.50991500000237	EXP	text_2: text = 82
+118.52534999999625	EXP	text_2: text = 98
+118.54182500000024	EXP	text_2: text = 113
+118.55872499999532	EXP	text_2: text = 131
+118.5755599999975	EXP	text_2: text = 148
+118.59176999999909	EXP	text_2: text = 164
+118.60925000000134	EXP	text_2: text = 181
+118.62537999999768	EXP	text_2: text = 197
+118.64195499999914	EXP	text_2: text = 213
+118.65898500000185	EXP	text_2: text = 231
+118.67585999999574	EXP	text_2: text = 247
+118.69256999999925	EXP	text_2: text = 265
+118.71187999999529	EXP	text_2: text = 281
+118.72362499999872	EXP	text_2: text = 297
+118.74300999999832	EXP	text_2: text = 317
+118.75905000000057	EXP	text_2: text = 333
+118.77595499999734	EXP	text_2: text = 349
+118.79386499999964	EXP	text_2: text = 367
+118.80924999999843	EXP	text_2: text = 381
+118.82531500000186	EXP	text_2: text = 397
+118.84354499999608	EXP	text_2: text = 415
+118.85904499999742	EXP	text_2: text = 431
+118.87599500000215	EXP	text_2: text = 448
+118.89512499999546	EXP	text_2: text = 467
+118.89674499999819	DATA	Keydown:  
+118.90728500000114	EXP	text_2: text = 481
+118.90728500000114	EXP	text_2: autoDraw = false
+118.90728500000114	EXP	Feedback: text = 469
+118.90728500000114	EXP	Feedback: autoDraw = true
+119.90997000000061	EXP	Feedback: autoDraw = false
+119.90997000000061	EXP	Feedback: autoDraw = false
+119.90997000000061	EXP	text_3: autoDraw = true
+125.98019000000204	EXP	text_3: autoDraw = false
+125.98019000000204	EXP	text_3: autoDraw = false
+125.98019000000204	EXP	text_2: autoDraw = true
+125.98019000000204	EXP	text_2: text = 0
+125.99554499999795	EXP	text_2: text = 16
+126.01318999999785	EXP	text_2: text = 34
+126.02963499999896	EXP	text_2: text = 51
+126.04566999999952	EXP	text_2: text = 66
+126.0628099999958	EXP	text_2: text = 83
+126.08006000000023	EXP	text_2: text = 101
+126.09574499999871	EXP	text_2: text = 117
+126.112294999999	EXP	text_2: text = 133
+126.12894000000233	EXP	text_2: text = 150
+126.14637999999832	EXP	text_2: text = 167
+126.16286499999842	EXP	text_2: text = 185
+126.17914000000019	EXP	text_2: text = 201
+126.19571500000166	EXP	text_2: text = 216
+126.21286500000133	EXP	text_2: text = 233
+126.22957999999926	EXP	text_2: text = 251
+126.24699500000133	EXP	text_2: text = 268
+126.26258999999845	EXP	text_2: text = 283
+126.26841499999864	DATA	Keydown:  
+126.27931499999977	EXP	text_2: text = 300
+126.27931499999977	EXP	text_2: autoDraw = false
+126.27931499999977	EXP	Feedback: text = 288
+126.27931499999977	EXP	Feedback: autoDraw = true
+127.28057499999704	EXP	Feedback: autoDraw = false
+127.28057499999704	EXP	Feedback: autoDraw = false
+127.28057499999704	EXP	text_3: autoDraw = true
+132.90054000000237	EXP	text_3: autoDraw = false
+132.90054000000237	EXP	text_3: autoDraw = false
+132.90054000000237	EXP	text_2: autoDraw = true
+132.90054000000237	EXP	text_2: text = 0
+132.91477499999746	EXP	text_2: text = 16
+132.932885000002	EXP	text_2: text = 33
+132.94866999999795	EXP	text_2: text = 50
+132.96598499999527	EXP	text_2: text = 66
+132.98269499999878	EXP	text_2: text = 83
+132.9988699999958	EXP	text_2: text = 100
+133.01584500000172	EXP	text_2: text = 116
+133.0324649999966	EXP	text_2: text = 133
+133.04910999999993	EXP	text_2: text = 150
+133.06623499999841	EXP	text_2: text = 167
+133.082524999998	EXP	text_2: text = 184
+133.10033000000112	EXP	text_2: text = 204
+133.1151499999978	EXP	text_2: text = 216
+133.1316749999969	EXP	text_2: text = 233
+133.15068500000052	EXP	text_2: text = 254
+133.16541999999754	EXP	text_2: text = 266
+133.18307999999524	EXP	text_2: text = 283
+133.18622499999765	DATA	Keydown:  
+133.2007850000009	EXP	text_2: text = 300
+133.2007850000009	EXP	text_2: autoDraw = false
+133.2007850000009	EXP	Feedback: text = 286
+133.2007850000009	EXP	Feedback: autoDraw = true
+134.19920499999716	EXP	Feedback: autoDraw = false
+134.19920499999716	EXP	Feedback: autoDraw = false
+134.19920499999716	EXP	text_3: autoDraw = true
+137.33527499999764	EXP	text_3: autoDraw = false
+137.33527499999764	EXP	text_3: autoDraw = false
+137.33527499999764	EXP	text_2: autoDraw = true
+137.33527499999764	EXP	text_2: text = 0
+137.35117999999784	EXP	text_2: text = 18
+137.36759499999607	EXP	text_2: text = 33
+137.3842250000016	EXP	text_2: text = 50
+137.40088499999547	EXP	text_2: text = 66
+137.41768500000035	EXP	text_2: text = 83
+137.43561999999656	EXP	text_2: text = 102
+137.45181500000035	EXP	text_2: text = 119
+137.48595999999816	EXP	text_2: text = 150
+137.50127500000235	EXP	text_2: text = 166
+137.51813499999844	EXP	text_2: text = 183
+137.53496499999892	EXP	text_2: text = 201
+137.55203500000061	EXP	text_2: text = 217
+137.56823499999882	EXP	text_2: text = 234
+137.5851249999978	EXP	text_2: text = 250
+137.60182499999792	EXP	text_2: text = 267
+137.61765999999625	EXP	text_2: text = 284
+137.63459000000148	EXP	text_2: text = 300
+137.65147499999875	EXP	text_2: text = 317
+137.6684200000018	EXP	text_2: text = 333
+137.6840200000006	EXP	text_2: text = 349
+137.7013949999964	EXP	text_2: text = 367
+137.70558999999776	DATA	Keydown:  
+137.71856999999727	EXP	text_2: text = 383
+137.71856999999727	EXP	text_2: autoDraw = false
+137.71856999999727	EXP	Feedback: text = 370
+137.71856999999727	EXP	Feedback: autoDraw = true
+138.7181750000018	EXP	Feedback: autoDraw = false
+138.7181750000018	EXP	Feedback: autoDraw = false
+138.7181750000018	EXP	text_3: autoDraw = true
+148.3909799999965	EXP	text_3: autoDraw = false
+148.3909799999965	EXP	text_3: autoDraw = false
+148.3909799999965	EXP	text_2: autoDraw = true
+148.3909799999965	EXP	text_2: text = 0
+148.40589999999793	EXP	text_2: text = 16
+148.42349499999546	EXP	text_2: text = 35
+148.43995500000165	EXP	text_2: text = 51
+148.4565799999982	EXP	text_2: text = 67
+148.47378500000195	EXP	text_2: text = 83
+148.490214999998	EXP	text_2: text = 101
+148.5072549999968	EXP	text_2: text = 117
+148.52268999999797	EXP	text_2: text = 133
+148.54001499999868	EXP	text_2: text = 150
+148.55685000000085	EXP	text_2: text = 168
+148.57313499999873	EXP	text_2: text = 183
+148.58992500000022	EXP	text_2: text = 200
+148.60688999999547	EXP	text_2: text = 217
+148.62247499999648	EXP	text_2: text = 233
+148.64010499999858	EXP	text_2: text = 250
+148.65689500000008	EXP	text_2: text = 267
+148.67316500000015	EXP	text_2: text = 283
+148.69051500000205	EXP	text_2: text = 303
+148.71460999999545	EXP	text_2: text = 324
+148.71627499999886	DATA	Keydown:  
+148.74145999999746	EXP	text_2: text = 351
+148.74145999999746	EXP	text_2: autoDraw = false
+148.74145999999746	EXP	Feedback: text = 325
+148.74145999999746	EXP	Feedback: autoDraw = true
+149.74035000000003	EXP	Feedback: autoDraw = false
+149.74035000000003	EXP	Feedback: autoDraw = false
+149.74035000000003	EXP	text_3: autoDraw = true
+159.1788400000005	EXP	text_3: autoDraw = false
+159.1788400000005	EXP	text_3: autoDraw = false
+159.1788400000005	EXP	text_2: autoDraw = true
+159.1788400000005	EXP	text_2: text = 0
+159.19450499999948	EXP	text_2: text = 16
+159.2121299999999	EXP	text_2: text = 33
+159.2274449999968	EXP	text_2: text = 49
+159.24605499999598	EXP	text_2: text = 68
+159.2615949999963	EXP	text_2: text = 84
+159.27825499999744	EXP	text_2: text = 101
+159.29490000000078	EXP	text_2: text = 117
+159.31257000000187	EXP	text_2: text = 134
+159.3278449999998	EXP	text_2: text = 149
+159.3472399999955	EXP	text_2: text = 166
+159.3617699999959	EXP	text_2: text = 183
+159.37840999999753	EXP	text_2: text = 200
+159.3949649999995	EXP	text_2: text = 216
+159.41229999999632	EXP	text_2: text = 233
+159.42783500000223	EXP	text_2: text = 250
+159.4450599999982	EXP	text_2: text = 267
+159.4620849999992	EXP	text_2: text = 284
+159.47783999999956	EXP	text_2: text = 299
+159.49686500000098	EXP	text_2: text = 320
+159.4985499999966	DATA	Keydown:  
+159.51731499999732	EXP	text_2: text = 339
+159.51731499999732	EXP	text_2: autoDraw = false
+159.51731499999732	EXP	Feedback: text = 320
+159.51731499999732	EXP	Feedback: autoDraw = true
+160.51204000000143	EXP	Feedback: autoDraw = false
+160.51204000000143	EXP	Feedback: autoDraw = false
+160.51204000000143	EXP	text_3: autoDraw = true
+167.20002499999828	EXP	text_3: autoDraw = false
+167.20002499999828	EXP	text_3: autoDraw = false
+167.20002499999828	EXP	text_2: autoDraw = true
+167.20002499999828	EXP	text_2: text = 0
+167.21495999999752	EXP	text_2: text = 16
+167.23172999999952	EXP	text_2: text = 33
+167.2494349999979	EXP	text_2: text = 50
+167.26633500000025	EXP	text_2: text = 69
+167.28196000000025	EXP	text_2: text = 83
+167.2986149999997	EXP	text_2: text = 100
+167.31489999999758	EXP	text_2: text = 116
+167.33178999999654	EXP	text_2: text = 133
+167.34862499999872	EXP	text_2: text = 150
+167.36641999999847	EXP	text_2: text = 167
+167.3822199999995	EXP	text_2: text = 183
+167.39919999999984	EXP	text_2: text = 200
+167.4158349999998	EXP	text_2: text = 218
+167.43185499999527	EXP	text_2: text = 233
+167.44892999999865	EXP	text_2: text = 250
+167.46568000000116	EXP	text_2: text = 266
+167.48274500000116	EXP	text_2: text = 285
+167.49874499999714	EXP	text_2: text = 299
+167.51988500000152	EXP	text_2: text = 321
+167.53056999999535	EXP	text_2: text = 333
+167.54939999999624	EXP	text_2: text = 351
+167.56577499999548	EXP	text_2: text = 368
+167.5825049999985	EXP	text_2: text = 385
+167.59917999999743	EXP	text_2: text = 402
+167.61576500000228	EXP	text_2: text = 417
+167.63273499999923	EXP	text_2: text = 434
+167.64947499999835	EXP	text_2: text = 450
+167.66513499999564	EXP	text_2: text = 467
+167.66717999999673	DATA	Keydown:  
+167.68326499999966	EXP	text_2: text = 484
+167.68326499999966	EXP	text_2: autoDraw = false
+167.68326499999966	EXP	Feedback: text = 467
+167.68326499999966	EXP	Feedback: autoDraw = true
+168.68234500000108	EXP	Feedback: autoDraw = false
+168.68234500000108	EXP	Feedback: autoDraw = false
+168.68234500000108	EXP	text_3: autoDraw = true
+171.98590999999578	EXP	text_3: autoDraw = false
+171.98590999999578	EXP	text_3: autoDraw = false
+171.98590999999578	EXP	text_2: autoDraw = true
+171.98590999999578	EXP	text_2: text = 0
+172.00009999999747	EXP	text_2: text = 16
+172.01670999999624	EXP	text_2: text = 32
+172.03512999999657	EXP	text_2: text = 51
+172.05068500000198	EXP	text_2: text = 66
+172.0671250000014	EXP	text_2: text = 82
+172.0850900000005	EXP	text_2: text = 101
+172.1004150000008	EXP	text_2: text = 116
+172.11845999999787	EXP	text_2: text = 133
+172.13477499999863	EXP	text_2: text = 153
+172.15120000000024	EXP	text_2: text = 168
+172.16911999999866	EXP	text_2: text = 187
+172.18594499999745	EXP	text_2: text = 201
+172.20046000000002	EXP	text_2: text = 216
+172.21854000000167	EXP	text_2: text = 233
+172.2344049999956	EXP	text_2: text = 250
+172.2514650000012	EXP	text_2: text = 266
+172.26834999999846	EXP	text_2: text = 284
+172.28349000000162	EXP	text_2: text = 299
+172.3015400000004	EXP	text_2: text = 318
+172.31780499999877	EXP	text_2: text = 334
+172.3367999999973	EXP	text_2: text = 353
+172.33808499999577	DATA	Keydown:  
+172.3518150000018	EXP	text_2: text = 366
+172.3518150000018	EXP	text_2: autoDraw = false
+172.3518150000018	EXP	Feedback: text = 352
+172.3518150000018	EXP	Feedback: autoDraw = true
+173.3527150000009	EXP	Feedback: autoDraw = false
+173.3527150000009	EXP	Feedback: autoDraw = false
+173.3527150000009	EXP	text_3: autoDraw = true
+179.82308499999635	EXP	text_3: autoDraw = false
+179.82308499999635	EXP	text_3: autoDraw = false
+179.82308499999635	EXP	text_2: autoDraw = true
+179.82308499999635	EXP	text_2: text = 0
+179.8374199999962	EXP	text_2: text = 16
+179.8545099999974	EXP	text_2: text = 32
+179.8721250000017	EXP	text_2: text = 50
+179.88765499999863	EXP	text_2: text = 66
+179.90440500000113	EXP	text_2: text = 82
+179.9215899999981	EXP	text_2: text = 100
+179.93770499999664	EXP	text_2: text = 117
+179.95449499999813	EXP	text_2: text = 133
+179.97151499999745	EXP	text_2: text = 150
+179.98898499999632	EXP	text_2: text = 166
+180.0052050000013	EXP	text_2: text = 185
+180.02150499999698	EXP	text_2: text = 199
+180.0382649999956	EXP	text_2: text = 217
+180.05473999999958	EXP	text_2: text = 233
+180.07130499999766	EXP	text_2: text = 249
+180.08812999999645	EXP	text_2: text = 266
+180.10523999999714	EXP	text_2: text = 285
+180.12120499999583	EXP	text_2: text = 300
+180.13941499999783	EXP	text_2: text = 318
+180.14172999999573	DATA	Keydown:  
+180.15415000000212	EXP	text_2: text = 333
+180.15415000000212	EXP	text_2: autoDraw = false
+180.15415000000212	EXP	Feedback: text = 319
+180.15415000000212	EXP	Feedback: autoDraw = true
+181.1551649999965	EXP	Feedback: autoDraw = false
+181.1551649999965	EXP	Feedback: autoDraw = false
+181.1551649999965	EXP	text_3: autoDraw = true
+187.37689500000124	EXP	text_3: autoDraw = false
+187.37689500000124	EXP	text_3: autoDraw = false
+187.37689500000124	EXP	text_2: autoDraw = true
+187.37689500000124	EXP	text_2: text = 0
+187.3912349999955	EXP	text_2: text = 16
+187.40872999999556	EXP	text_2: text = 33
+187.42470999999932	EXP	text_2: text = 51
+187.44227500000125	EXP	text_2: text = 68
+187.45763499999885	EXP	text_2: text = 83
+187.47517499999958	EXP	text_2: text = 101
+187.4915800000017	EXP	text_2: text = 116
+187.50789500000246	EXP	text_2: text = 133
+187.52437500000087	EXP	text_2: text = 149
+187.54265499999747	EXP	text_2: text = 168
+187.55861000000004	EXP	text_2: text = 184
+187.57418999999936	EXP	text_2: text = 200
+187.59162500000093	EXP	text_2: text = 219
+187.61552500000107	EXP	text_2: text = 239
+187.64194999999745	EXP	text_2: text = 268
+187.64720500000112	DATA	Keydown:  
+187.65977500000008	EXP	text_2: text = 284
+187.65977500000008	EXP	text_2: autoDraw = false
+187.65977500000008	EXP	Feedback: text = 270
+187.65977500000008	EXP	Feedback: autoDraw = true
+188.65835499999957	EXP	Feedback: autoDraw = false
+188.65835499999957	EXP	Feedback: autoDraw = false
+188.65835499999957	EXP	text_3: autoDraw = true
+194.41223999999784	EXP	text_3: autoDraw = false
+194.41223999999784	EXP	text_3: autoDraw = false
+194.41223999999784	EXP	text_2: autoDraw = true
+194.41223999999784	EXP	text_2: text = 0
+194.42788499999733	EXP	text_2: text = 16
+194.4447250000012	EXP	text_2: text = 33
+194.46140500000183	EXP	text_2: text = 50
+194.4774099999995	EXP	text_2: text = 66
+194.49461499999597	EXP	text_2: text = 83
+194.51224499999807	EXP	text_2: text = 100
+194.5285900000017	EXP	text_2: text = 117
+194.545689999999	EXP	text_2: text = 133
+194.56150499999785	EXP	text_2: text = 150
+194.57916000000114	EXP	text_2: text = 171
+194.5966599999956	EXP	text_2: text = 188
+194.62922499999695	EXP	text_2: text = 217
+194.64483499999915	EXP	text_2: text = 233
+194.6623550000004	EXP	text_2: text = 250
+194.67841000000044	EXP	text_2: text = 266
+194.6947149999978	EXP	text_2: text = 283
+194.71159500000067	EXP	text_2: text = 300
+194.72894999999698	EXP	text_2: text = 317
+194.74454500000138	EXP	text_2: text = 333
+194.7624799999976	EXP	text_2: text = 351
+194.77827499999694	EXP	text_2: text = 366
+194.79494500000146	EXP	text_2: text = 383
+194.81400500000018	EXP	text_2: text = 404
+194.815419999999	DATA	Keydown:  
+194.8289450000011	EXP	text_2: text = 418
+194.8289450000011	EXP	text_2: autoDraw = false
+194.8289450000011	EXP	Feedback: text = 403
+194.8289450000011	EXP	Feedback: autoDraw = true
+195.8284149999963	EXP	Feedback: autoDraw = false
+195.8284149999963	EXP	Feedback: autoDraw = false
+195.8284149999963	EXP	text_3: autoDraw = true
+203.98343000000023	EXP	text_3: autoDraw = false
+203.98343000000023	EXP	text_3: autoDraw = false
+203.98343000000023	EXP	text_2: autoDraw = true
+203.98343000000023	EXP	text_2: text = 0
+203.99956499999826	EXP	text_2: text = 16
+204.01612500000192	EXP	text_2: text = 33
+204.03291499999614	EXP	text_2: text = 50
+204.0503400000016	EXP	text_2: text = 68
+204.06550499999867	EXP	text_2: text = 82
+204.08208999999624	EXP	text_2: text = 99
+204.09908999999607	EXP	text_2: text = 116
+204.11609499999759	EXP	text_2: text = 133
+204.13266499999736	EXP	text_2: text = 150
+204.1492849999995	EXP	text_2: text = 166
+204.1661049999966	EXP	text_2: text = 183
+204.1835099999953	EXP	text_2: text = 200
+204.22043999999732	EXP	text_2: text = 238
+204.2309299999979	EXP	text_2: text = 250
+204.25007000000187	EXP	text_2: text = 266
+204.26661500000046	EXP	text_2: text = 283
+204.2824150000015	EXP	text_2: text = 300
+204.28862500000105	DATA	Keydown:  
+204.30131499999698	EXP	text_2: text = 317
+204.30131499999698	EXP	text_2: autoDraw = false
+204.30131499999698	EXP	Feedback: text = 305
+204.30131499999698	EXP	Feedback: autoDraw = true
+205.29986999999528	EXP	Feedback: autoDraw = false
+205.29986999999528	EXP	Feedback: autoDraw = false
+205.29986999999528	EXP	text_3: autoDraw = true
+211.6371599999984	EXP	text_3: autoDraw = false
+211.6371599999984	EXP	text_3: autoDraw = false
+211.6371599999984	EXP	text_2: autoDraw = true
+211.6371599999984	EXP	text_2: text = 0
+211.65328500000032	EXP	text_2: text = 17
+211.6701099999991	EXP	text_2: text = 33
+211.68654000000242	EXP	text_2: text = 50
+211.70356000000174	EXP	text_2: text = 68
+211.71884000000136	EXP	text_2: text = 83
+211.73717999999644	EXP	text_2: text = 102
+211.7520799999984	EXP	text_2: text = 116
+211.7703049999982	EXP	text_2: text = 134
+211.78629999999976	EXP	text_2: text = 151
+211.8032499999972	EXP	text_2: text = 167
+211.82024499999534	EXP	text_2: text = 185
+211.83613999999943	EXP	text_2: text = 200
+211.8533150000003	EXP	text_2: text = 217
+211.87027999999555	EXP	text_2: text = 234
+211.88588000000163	EXP	text_2: text = 250
+211.90316999999777	EXP	text_2: text = 267
+211.92285499999707	EXP	text_2: text = 289
+211.92674999999872	DATA	Keydown:  
+211.9360650000017	EXP	text_2: text = 301
+211.9360650000017	EXP	text_2: autoDraw = false
+211.9360650000017	EXP	Feedback: text = 290
+211.9360650000017	EXP	Feedback: autoDraw = true
+212.936394999997	EXP	Feedback: autoDraw = false
+212.936394999997	EXP	Feedback: autoDraw = false
+212.936394999997	EXP	text_3: autoDraw = true
+218.80773999999656	EXP	text_3: autoDraw = false
+218.80773999999656	EXP	text_3: autoDraw = false
+218.80773999999656	EXP	text_2: autoDraw = true
+218.80773999999656	EXP	text_2: text = 0
+218.8232399999979	EXP	text_2: text = 17
+218.83943	EXP	text_2: text = 33
+218.857084999996	EXP	text_2: text = 51
+218.8732850000015	EXP	text_2: text = 67
+218.89013999999588	EXP	text_2: text = 83
+218.906544999998	EXP	text_2: text = 100
+218.923649999997	EXP	text_2: text = 117
+218.94018499999947	EXP	text_2: text = 134
+218.95678999999654	EXP	text_2: text = 151
+218.97327000000223	EXP	text_2: text = 167
+218.99010499999713	EXP	text_2: text = 183
+219.0072650000002	EXP	text_2: text = 200
+219.02395499999693	EXP	text_2: text = 217
+219.04088999999658	EXP	text_2: text = 234
+219.07362999999896	EXP	text_2: text = 269
+219.0831199999957	DATA	Keydown:  
+219.10833999999886	EXP	text_2: text = 300
+219.10833999999886	EXP	text_2: autoDraw = false
+219.10833999999886	EXP	Feedback: text = 275
+219.10833999999886	EXP	Feedback: autoDraw = true
+220.10700499999803	EXP	Feedback: autoDraw = false
+220.10700499999803	EXP	Feedback: autoDraw = false
+220.10700499999803	EXP	text_3: autoDraw = true
+225.42732999999862	EXP	text_3: autoDraw = false
+225.42732999999862	EXP	text_3: autoDraw = false
+225.42732999999862	EXP	text_2: autoDraw = true
+225.42732999999862	EXP	text_2: text = 0
+225.44290499999624	EXP	text_2: text = 17
+225.45955500000127	EXP	text_2: text = 33
+225.47681999999622	EXP	text_2: text = 50
+225.49325500000123	EXP	text_2: text = 67
+225.50945499999943	EXP	text_2: text = 83
+225.52670000000217	EXP	text_2: text = 100
+225.5422150000013	EXP	text_2: text = 117
+225.55947999999626	EXP	text_2: text = 133
+225.57603499999823	EXP	text_2: text = 150
+225.5937449999983	EXP	text_2: text = 167
+225.61000500000227	EXP	text_2: text = 183
+225.6270450000011	EXP	text_2: text = 200
+225.64284000000043	EXP	text_2: text = 216
+225.65922999999748	EXP	text_2: text = 233
+225.67599999999948	EXP	text_2: text = 249
+225.6938250000021	EXP	text_2: text = 269
+225.71318500000052	EXP	text_2: text = 289
+225.724549999999	EXP	text_2: text = 300
+225.74416499999643	EXP	text_2: text = 317
+225.75910999999905	EXP	text_2: text = 333
+225.7630349999963	DATA	Keydown:  
+225.7769199999966	EXP	text_2: text = 350
+225.7769199999966	EXP	text_2: autoDraw = false
+225.7769199999966	EXP	Feedback: text = 336
+225.7769199999966	EXP	Feedback: autoDraw = true
+226.77670999999827	EXP	Feedback: autoDraw = false
+226.77670999999827	EXP	Feedback: autoDraw = false
+226.77670999999827	EXP	text_3: autoDraw = true
+234.5984299999982	EXP	text_3: autoDraw = false
+234.5984299999982	EXP	text_3: autoDraw = false
+234.5984299999982	EXP	text_2: autoDraw = true
+234.5984299999982	EXP	text_2: text = 0
+234.61353000000236	EXP	text_2: text = 17
+234.6308149999968	EXP	text_2: text = 34
+234.6481649999987	EXP	text_2: text = 51
+234.6640150000021	EXP	text_2: text = 67
+234.68089999999938	EXP	text_2: text = 85
+234.6958999999988	EXP	text_2: text = 101
+234.7156199999954	EXP	text_2: text = 121
+234.74775000000227	EXP	text_2: text = 150
+234.76404000000184	EXP	text_2: text = 167
+234.78014999999868	EXP	text_2: text = 184
+234.7977699999974	EXP	text_2: text = 200
+234.81433499999548	EXP	text_2: text = 217
+234.83147499999905	EXP	text_2: text = 234
+234.84741499999654	EXP	text_2: text = 250
+234.86434500000178	EXP	text_2: text = 267
+234.8813450000016	EXP	text_2: text = 284
+234.89715499999875	EXP	text_2: text = 300
+234.91567499999655	EXP	text_2: text = 317
+234.92008499999793	DATA	Keydown:  
+234.9306099999958	EXP	text_2: text = 334
+234.9306099999958	EXP	text_2: autoDraw = false
+234.9306099999958	EXP	Feedback: text = 322
+234.9306099999958	EXP	Feedback: autoDraw = true
+235.9311299999972	EXP	Feedback: autoDraw = false
+235.9311299999972	EXP	Feedback: autoDraw = false
+235.9311299999972	EXP	text_3: autoDraw = true
+242.38562000000093	EXP	text_3: autoDraw = false
+242.38562000000093	EXP	text_3: autoDraw = false
+242.38562000000093	EXP	text_2: autoDraw = true
+242.38562000000093	EXP	text_2: text = 0
+242.40114000000176	EXP	text_2: text = 17
+242.41793999999936	EXP	text_2: text = 35
+242.43382500000007	EXP	text_2: text = 50
+242.45036999999866	EXP	text_2: text = 66
+242.4673649999968	EXP	text_2: text = 83
+242.48446500000136	EXP	text_2: text = 101
+242.5020799999984	EXP	text_2: text = 118
+242.51741000000038	EXP	text_2: text = 134
+242.53493999999773	EXP	text_2: text = 151
+242.55161000000226	EXP	text_2: text = 167
+242.56697500000155	EXP	text_2: text = 184
+242.5853599999973	EXP	text_2: text = 202
+242.60030499999993	EXP	text_2: text = 216
+242.61821999999665	EXP	text_2: text = 234
+242.6354349999965	EXP	text_2: text = 251
+242.65109500000108	EXP	text_2: text = 267
+242.66740500000014	EXP	text_2: text = 283
+242.68383000000176	EXP	text_2: text = 300
+242.70175000000017	EXP	text_2: text = 317
+242.7034050000002	DATA	Keydown:  
+242.71804500000144	EXP	text_2: text = 333
+242.71804500000144	EXP	text_2: autoDraw = false
+242.71804500000144	EXP	Feedback: text = 318
+242.71804500000144	EXP	Feedback: autoDraw = true
+243.71796999999788	EXP	Feedback: autoDraw = false
+243.71796999999788	EXP	Feedback: autoDraw = false
+243.71796999999788	EXP	text_3: autoDraw = true
+252.60699999999633	EXP	text_3: autoDraw = false
+252.60699999999633	EXP	text_3: autoDraw = false
+252.60699999999633	EXP	text_2: autoDraw = true
+252.60699999999633	EXP	text_2: text = 0
+252.6223800000007	EXP	text_2: text = 16
+252.63960000000225	EXP	text_2: text = 34
+252.65576999999757	EXP	text_2: text = 50
+252.67197999999917	EXP	text_2: text = 66
+252.6889949999968	EXP	text_2: text = 83
+252.70622000000003	EXP	text_2: text = 101
+252.72185499999614	EXP	text_2: text = 116
+252.73943000000145	EXP	text_2: text = 134
+252.7563250000021	EXP	text_2: text = 151
+252.7719849999994	EXP	text_2: text = 166
+252.78991999999562	EXP	text_2: text = 184
+252.8064299999969	EXP	text_2: text = 200
+252.82295000000158	EXP	text_2: text = 218
+252.83955499999865	EXP	text_2: text = 233
+252.85599499999807	EXP	text_2: text = 250
+252.87333999999828	EXP	text_2: text = 267
+252.89046499999677	EXP	text_2: text = 284
+252.9152299999987	EXP	text_2: text = 309
+252.92024500000116	DATA	Keydown:  
+252.93323999999848	EXP	text_2: text = 325
+252.93323999999848	EXP	text_2: autoDraw = false
+252.93323999999848	EXP	Feedback: text = 313
+252.93323999999848	EXP	Feedback: autoDraw = true
+253.92257499999687	EXP	Feedback: autoDraw = false
+253.92257499999687	EXP	Feedback: autoDraw = false
+253.92257499999687	EXP	text_3: autoDraw = true
+256.7422349999979	EXP	text_3: autoDraw = false
+256.7422349999979	EXP	text_3: autoDraw = false
+256.7422349999979	EXP	text_2: autoDraw = true
+256.7422349999979	EXP	text_2: text = 0
+256.7578999999969	EXP	text_2: text = 17
+256.7740699999995	EXP	text_2: text = 33
+256.7911600000007	EXP	text_2: text = 49
+256.807034999998	EXP	text_2: text = 66
+256.82486999999674	EXP	text_2: text = 83
+256.84127499999886	EXP	text_2: text = 101
+256.8576749999993	EXP	text_2: text = 116
+256.8741250000021	EXP	text_2: text = 133
+256.8918649999978	EXP	text_2: text = 150
+256.90784500000154	EXP	text_2: text = 166
+256.9251000000004	EXP	text_2: text = 183
+256.93933000000106	EXP	text_2: text = 200
+256.9594500000021	EXP	text_2: text = 221
+256.97610999999597	EXP	text_2: text = 237
+256.99526499999774	EXP	text_2: text = 253
+257.0063699999955	EXP	text_2: text = 266
+257.0242599999983	EXP	text_2: text = 283
+257.0436699999991	EXP	text_2: text = 302
+257.04565999999613	DATA	Keydown:  
+257.0561949999974	EXP	text_2: text = 316
+257.0561949999974	EXP	text_2: autoDraw = false
+257.0561949999974	EXP	Feedback: text = 304
+257.0561949999974	EXP	Feedback: autoDraw = true
+258.0578899999964	EXP	Feedback: autoDraw = false
+258.0578899999964	EXP	Feedback: autoDraw = false
+258.0578899999964	EXP	text_3: autoDraw = true
+267.46428500000184	EXP	text_3: autoDraw = false
+267.46428500000184	EXP	text_3: autoDraw = false
+267.46428500000184	EXP	text_2: autoDraw = true
+267.46428500000184	EXP	text_2: text = 0
+267.4794499999989	EXP	text_2: text = 16
+267.49699500000133	EXP	text_2: text = 33
+267.5127500000017	EXP	text_2: text = 50
+267.5291450000004	EXP	text_2: text = 66
+267.5460449999955	EXP	text_2: text = 83
+267.5630299999975	EXP	text_2: text = 100
+267.57922999999573	EXP	text_2: text = 117
+267.5965849999993	EXP	text_2: text = 135
+267.6140249999953	EXP	text_2: text = 151
+267.6319000000003	EXP	text_2: text = 168
+267.64745499999844	EXP	text_2: text = 183
+267.66365999999834	EXP	text_2: text = 201
+267.6802499999976	EXP	text_2: text = 217
+267.6967050000021	EXP	text_2: text = 234
+267.7132100000017	EXP	text_2: text = 251
+267.72986500000115	EXP	text_2: text = 268
+267.7474599999987	EXP	text_2: text = 283
+267.7494749999969	DATA	Keydown:  
+267.7627250000005	EXP	text_2: text = 301
+267.7627250000005	EXP	text_2: autoDraw = false
+267.7627250000005	EXP	Feedback: text = 285
+267.7627250000005	EXP	Feedback: autoDraw = true
+267.91539000000193	DATA	Keydown:  
+268.7633149999965	EXP	Feedback: autoDraw = false
+268.7633149999965	EXP	Feedback: autoDraw = false
+268.7633149999965	EXP	text_3: autoDraw = true
+278.48592500000086	EXP	text_3: autoDraw = false
+278.48592500000086	EXP	text_3: autoDraw = false
+278.48592500000086	EXP	text_2: autoDraw = true
+278.48592500000086	EXP	text_2: text = 0
+278.5008349999989	EXP	text_2: text = 16
+278.5188999999955	EXP	text_2: text = 35
+278.5338799999954	EXP	text_2: text = 50
+278.5524099999966	EXP	text_2: text = 68
+278.5674799999979	EXP	text_2: text = 83
+278.58578499999567	EXP	text_2: text = 102
+278.6014700000014	EXP	text_2: text = 117
+278.6180749999985	EXP	text_2: text = 133
+278.6346399999966	EXP	text_2: text = 150
+278.6519150000022	EXP	text_2: text = 167
+278.6684699999969	EXP	text_2: text = 184
+278.68531000000075	EXP	text_2: text = 201
+278.70182000000204	EXP	text_2: text = 219
+278.7172500000015	EXP	text_2: text = 235
+278.7349400000021	EXP	text_2: text = 251
+278.75650499999756	EXP	text_2: text = 270
+278.76112999999896	DATA	Keydown:  
+278.78749000000244	EXP	text_2: text = 300
+278.78749000000244	EXP	text_2: autoDraw = false
+278.78749000000244	EXP	Feedback: text = 275
+278.78749000000244	EXP	Feedback: autoDraw = true
+279.7844949999999	EXP	Feedback: autoDraw = false
+279.7844949999999	EXP	Feedback: autoDraw = false
+279.7844949999999	EXP	text_3: autoDraw = true
+285.10568500000227	EXP	text_3: autoDraw = false
+285.10568500000227	EXP	text_3: autoDraw = false
+285.10568500000227	EXP	text_2: autoDraw = true
+285.10568500000227	EXP	text_2: text = 0
+285.1210099999953	EXP	text_2: text = 16
+285.13762499999575	EXP	text_2: text = 33
+285.15524000000005	EXP	text_2: text = 50
+285.17142500000045	EXP	text_2: text = 66
+285.187460000001	EXP	text_2: text = 83
+285.2051399999982	EXP	text_2: text = 100
+285.22121999999945	EXP	text_2: text = 117
+285.2381400000013	EXP	text_2: text = 135
+285.2540599999993	EXP	text_2: text = 149
+285.27185499999905	EXP	text_2: text = 168
+285.290184999998	EXP	text_2: text = 188
+285.3044799999989	EXP	text_2: text = 199
+285.32129500000156	EXP	text_2: text = 217
+285.3380049999978	EXP	text_2: text = 233
+285.35547499999666	EXP	text_2: text = 250
+285.37136499999906	EXP	text_2: text = 266
+285.3880700000009	EXP	text_2: text = 283
+285.3912100000016	DATA	Keydown:  
+285.4047649999993	EXP	text_2: text = 299
+285.4047649999993	EXP	text_2: autoDraw = false
+285.4047649999993	EXP	Feedback: text = 286
+285.4047649999993	EXP	Feedback: autoDraw = true
+286.40524500000174	EXP	Feedback: autoDraw = false
+286.40524500000174	EXP	Feedback: autoDraw = false
+286.40524500000174	EXP	text_3: autoDraw = true
+293.09275999999954	EXP	text_3: autoDraw = false
+293.09275999999954	EXP	text_3: autoDraw = false
+293.09275999999954	EXP	text_2: autoDraw = true
+293.09275999999954	EXP	text_2: text = 0
+293.10803499999747	EXP	text_2: text = 17
+293.1249499999976	EXP	text_2: text = 33
+293.14132000000245	EXP	text_2: text = 50
+293.15837499999907	EXP	text_2: text = 66
+293.1747600000017	EXP	text_2: text = 83
+293.19163000000117	EXP	text_2: text = 100
+293.2085850000003	EXP	text_2: text = 116
+293.2253300000011	EXP	text_2: text = 134
+293.2423950000011	EXP	text_2: text = 150
+293.25864	EXP	text_2: text = 167
+293.27418999999645	EXP	text_2: text = 183
+293.29301999999734	EXP	text_2: text = 201
+293.308434999999	EXP	text_2: text = 217
+293.32537500000035	EXP	text_2: text = 233
+293.3423699999985	EXP	text_2: text = 250
+293.3579400000017	EXP	text_2: text = 266
+293.3778149999998	EXP	text_2: text = 283
+293.37900499999523	DATA	Keydown:  
+293.39252000000124	EXP	text_2: text = 300
+293.39252000000124	EXP	text_2: autoDraw = false
+293.39252000000124	EXP	Feedback: text = 286
+293.39252000000124	EXP	Feedback: autoDraw = true
+294.3918399999966	EXP	Feedback: autoDraw = false
+294.3918399999966	EXP	Feedback: autoDraw = false
+294.3918399999966	EXP	text_3: autoDraw = true
+298.04441499999666	EXP	text_3: autoDraw = false
+298.04441499999666	EXP	text_3: autoDraw = false
+298.04441499999666	EXP	text_2: autoDraw = true
+298.04441499999666	EXP	text_2: text = 0
+298.06006999999954	EXP	text_2: text = 17
+298.077870000001	EXP	text_2: text = 35
+298.09445499999856	EXP	text_2: text = 50
+298.11072499999864	EXP	text_2: text = 68
+298.1282349999965	EXP	text_2: text = 85
+298.14373499999783	EXP	text_2: text = 100
+298.161159999996	EXP	text_2: text = 118
+298.17724499999895	EXP	text_2: text = 134
+298.19438999999693	EXP	text_2: text = 151
+298.21132999999827	EXP	text_2: text = 168
+298.22753499999817	EXP	text_2: text = 185
+298.2453899999964	EXP	text_2: text = 202
+298.26084999999875	EXP	text_2: text = 217
+298.27844000000186	EXP	text_2: text = 234
+298.2948749999996	EXP	text_2: text = 253
+298.3116000000009	EXP	text_2: text = 270
+298.32854999999836	EXP	text_2: text = 286
+298.33870500000194	DATA	Keydown:  
+298.3533899999966	EXP	text_2: text = 310
+298.3533899999966	EXP	text_2: autoDraw = false
+298.3533899999966	EXP	Feedback: text = 294
+298.3533899999966	EXP	Feedback: autoDraw = true
+299.3447249999954	EXP	Feedback: autoDraw = false
+299.3447249999954	EXP	Feedback: autoDraw = false
+299.3447249999954	EXP	text_3: autoDraw = true
+307.95069499999954	EXP	text_3: autoDraw = false
+307.95069499999954	EXP	text_3: autoDraw = false
+307.95069499999954	EXP	text_2: autoDraw = true
+307.95069499999954	EXP	text_2: text = 0
+307.9647100000002	EXP	text_2: text = 17
+307.9830099999963	EXP	text_2: text = 35
+307.9982400000008	EXP	text_2: text = 50
+308.01605500000005	EXP	text_2: text = 68
+308.0314900000012	EXP	text_2: text = 83
+308.0491600000023	EXP	text_2: text = 100
+308.0659149999992	EXP	text_2: text = 117
+308.0813500000004	EXP	text_2: text = 133
+308.0999149999989	EXP	text_2: text = 152
+308.1157099999982	EXP	text_2: text = 167
+308.13235999999597	EXP	text_2: text = 183
+308.15049	EXP	text_2: text = 202
+308.1649350000007	EXP	text_2: text = 216
+308.18187000000034	EXP	text_2: text = 233
+308.19919500000105	EXP	text_2: text = 250
+308.2154999999984	EXP	text_2: text = 267
+308.2271899999978	DATA	Keydown:  
+308.2517850000004	EXP	text_2: text = 303
+308.2517850000004	EXP	text_2: autoDraw = false
+308.2517850000004	EXP	Feedback: text = 277
+308.2517850000004	EXP	Feedback: autoDraw = true
+309.24904499999684	EXP	Feedback: autoDraw = false
+309.24904499999684	EXP	Feedback: autoDraw = false
+309.24904499999684	EXP	text_3: autoDraw = true
+314.65232499999547	EXP	text_3: autoDraw = false
+314.65232499999547	EXP	text_3: autoDraw = false
+314.65232499999547	EXP	text_2: autoDraw = true
+314.65232499999547	EXP	text_2: text = 0
+314.6679099999965	EXP	text_2: text = 16
+314.68447500000184	EXP	text_2: text = 33
+314.70156499999575	EXP	text_2: text = 50
+314.7179499999984	EXP	text_2: text = 67
+314.73602499999834	EXP	text_2: text = 85
+314.7514650000012	EXP	text_2: text = 100
+314.7690050000019	EXP	text_2: text = 117
+314.78547999999864	EXP	text_2: text = 133
+314.80201999999554	EXP	text_2: text = 150
+314.8182549999983	EXP	text_2: text = 166
+314.8350399999981	EXP	text_2: text = 184
+314.8532750000013	EXP	text_2: text = 205
+314.86823999999615	EXP	text_2: text = 217
+314.8868499999953	EXP	text_2: text = 238
+314.90264000000025	EXP	text_2: text = 250
+314.9232550000015	EXP	text_2: text = 272
+314.953379999999	EXP	text_2: text = 301
+314.9684049999996	EXP	text_2: text = 317
+314.9739499999996	DATA	Keydown:  
+314.9873299999963	EXP	text_2: text = 334
+314.9873299999963	EXP	text_2: autoDraw = false
+314.9873299999963	EXP	Feedback: text = 322
+314.9873299999963	EXP	Feedback: autoDraw = true
+315.99809000000096	EXP	Feedback: autoDraw = false
+315.99809000000096	EXP	Feedback: autoDraw = false
+315.99809000000096	EXP	End_text: autoDraw = true
+327.48099999999977	DATA	Keydown:  
+328.9948499999955	DATA	Mouse: 0 button down, pos=(842.01953125,502.58203125)
+329.11442499999976	DATA	Mouse: 0 button down, pos=(842.01953125,502.58203125)

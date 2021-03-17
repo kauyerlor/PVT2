@@ -1,0 +1,100 @@
+0.06774500000028638	EXP	Created Window = Window( name=Window, fullscr=true, color=#000000, units=height, waitBlanking=true, autoLog=true, size=[1420,745] )
+2.2466649999987567	DATA	Keydown: J
+2.3763849999995728	DATA	Keydown: F
+5.586605000000418	DATA	Keydown: undefined
+5.5905149999998685	DATA	Keydown: Tab
+11.672604999999749	EXP	Created text = TextStim( name=text, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=INSTRUCTIONS [EN]
+
+
+A counter will appear and star~, font=Arial, color=#FFFFFF, contrast=1, height=0.03, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+11.67495499999859	EXP	Created text_3 = TextStim( name=text_3, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=null, font=Arial, color=#FFFFFF, contrast=1, height=0.1, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+11.676445000000967	EXP	Created text_2 = TextStim( name=text_2, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=default text, font=Arial, color=#ff0000, contrast=1, height=0.15, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+11.677380000000994	EXP	Created Feedback = TextStim( name=Feedback, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=default text, font=Arial, color=#ff0000, contrast=1, height=0.15, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+11.677984999998444	EXP	Created End_text = TextStim( name=End_text, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=This study aimed to look at procedural learning, i~, font=Arial, color=#FFFFFF, contrast=1, height=0.025, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+11.709995000001072	EXP	text: units = "height"
+11.709995000001072	EXP	text: ori = 0
+11.709995000001072	EXP	text: opacity = 1
+11.709995000001072	EXP	text: pos = [0,0]
+11.709995000001072	EXP	text: size = undefined
+11.709995000001072	EXP	text: text = "INSTRUCTIONS [EN]\n\n\nA counter will appear and start counting at random times, press SPACE as fast as possible when it appears.\n\n\nPress SPACE to start\n\n-------\n\nInstruções [PT]\n\n\nUm cronómetro vai aparecer e começar a contar aleatoriamente, pressione a tecla SPACE assim que ele aparecer.\n\n\nPressiona SPACE para começar."
+11.709995000001072	EXP	text: font = "Arial"
+11.709995000001072	EXP	text: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+11.709995000001072	EXP	text: contrast = 1
+11.709995000001072	EXP	text: height = 0.03
+11.709995000001072	EXP	text: bold = false
+11.709995000001072	EXP	text: italic = false
+11.709995000001072	EXP	text: alignHoriz = "left"
+11.709995000001072	EXP	text: alignVert = "center"
+11.709995000001072	EXP	text: wrapWidth = 1
+11.709995000001072	EXP	text: flipHoriz = false
+11.709995000001072	EXP	text: flipVert = false
+11.709995000001072	EXP	text_3: units = "height"
+11.709995000001072	EXP	text_3: ori = 0
+11.709995000001072	EXP	text_3: opacity = 1
+11.709995000001072	EXP	text_3: pos = [0,0]
+11.709995000001072	EXP	text_3: size = undefined
+11.709995000001072	EXP	text_3: text = ""
+11.709995000001072	EXP	text_3: font = "Arial"
+11.709995000001072	EXP	text_3: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+11.709995000001072	EXP	text_3: contrast = 1
+11.709995000001072	EXP	text_3: height = 0.1
+11.709995000001072	EXP	text_3: bold = false
+11.709995000001072	EXP	text_3: italic = false
+11.709995000001072	EXP	text_3: alignHoriz = "left"
+11.709995000001072	EXP	text_3: alignVert = "center"
+11.709995000001072	EXP	text_3: wrapWidth = 1
+11.709995000001072	EXP	text_3: flipHoriz = false
+11.709995000001072	EXP	text_3: flipVert = false
+11.709995000001072	EXP	text_2: units = "height"
+11.709995000001072	EXP	text_2: ori = 0
+11.709995000001072	EXP	text_2: opacity = 1
+11.709995000001072	EXP	text_2: pos = [0,0]
+11.709995000001072	EXP	text_2: size = undefined
+11.709995000001072	EXP	text_2: text = "default text"
+11.709995000001072	EXP	text_2: font = "Arial"
+11.709995000001072	EXP	text_2: color = {"_rgb":[1,0,0]}
+11.709995000001072	EXP	text_2: contrast = 1
+11.709995000001072	EXP	text_2: height = 0.15
+11.709995000001072	EXP	text_2: bold = false
+11.709995000001072	EXP	text_2: italic = false
+11.709995000001072	EXP	text_2: alignHoriz = "left"
+11.709995000001072	EXP	text_2: alignVert = "center"
+11.709995000001072	EXP	text_2: wrapWidth = 1
+11.709995000001072	EXP	text_2: flipHoriz = false
+11.709995000001072	EXP	text_2: flipVert = false
+11.709995000001072	EXP	Feedback: units = "height"
+11.709995000001072	EXP	Feedback: ori = 0
+11.709995000001072	EXP	Feedback: opacity = 1
+11.709995000001072	EXP	Feedback: pos = [0,0]
+11.709995000001072	EXP	Feedback: size = undefined
+11.709995000001072	EXP	Feedback: text = "default text"
+11.709995000001072	EXP	Feedback: font = "Arial"
+11.709995000001072	EXP	Feedback: color = {"_rgb":[1,0,0]}
+11.709995000001072	EXP	Feedback: contrast = 1
+11.709995000001072	EXP	Feedback: height = 0.15
+11.709995000001072	EXP	Feedback: bold = false
+11.709995000001072	EXP	Feedback: italic = false
+11.709995000001072	EXP	Feedback: alignHoriz = "left"
+11.709995000001072	EXP	Feedback: alignVert = "center"
+11.709995000001072	EXP	Feedback: wrapWidth = 1
+11.709995000001072	EXP	Feedback: flipHoriz = false
+11.709995000001072	EXP	Feedback: flipVert = false
+11.709995000001072	EXP	End_text: units = "height"
+11.709995000001072	EXP	End_text: ori = 0
+11.709995000001072	EXP	End_text: opacity = 1
+11.709995000001072	EXP	End_text: pos = [0,0]
+11.709995000001072	EXP	End_text: size = undefined
+11.709995000001072	EXP	End_text: text = "This study aimed to look at procedural learning, i.e. our ability to extract patterns from the input that we are constantly receiving. This skill is thought to be essential for language and literacy acquisition and has been suggested as a possible underlying difficult in children with Language Impairments and Dyslexia. This study aims to improve the measures of procedural learning (the smiley face task) so that we can measure procedural learning more reliably and, in the future, analyse the performance of individuals with learning impairments.\nThank you for participating!\n\n----\n\nEste estudo tem como objectivo analisar a nossa capacidade de extrair padrões da informação que estamos constantemente a receber. Pensa-se que esta competência é essencial para a aquisição da linguagem e literacia e foi sugerido que dificuldades neste tipo de competências poderá estar relacionado com perturbações da linguagem e Dislexia. Este estudo tem como objectivo melhorar a estabilidade das medidas usadas para medir este tipo de memória (a tarefa da cara sorridente) de forma a poder medir de forma mais precisa e, no futuro, analisar a performance de indivíduos com perturbações da aprendizagem. \nMuito obrigada por ter participado!"
+11.709995000001072	EXP	End_text: font = "Arial"
+11.709995000001072	EXP	End_text: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+11.709995000001072	EXP	End_text: contrast = 1
+11.709995000001072	EXP	End_text: height = 0.025
+11.709995000001072	EXP	End_text: bold = false
+11.709995000001072	EXP	End_text: italic = false
+11.709995000001072	EXP	End_text: alignHoriz = "left"
+11.709995000001072	EXP	End_text: alignVert = "center"
+11.709995000001072	EXP	End_text: wrapWidth = 1
+11.709995000001072	EXP	End_text: flipHoriz = false
+11.709995000001072	EXP	End_text: flipVert = false
+11.709995000001072	EXP	text: autoDraw = true
+22.179274999998597	DATA	Keydown: Escape

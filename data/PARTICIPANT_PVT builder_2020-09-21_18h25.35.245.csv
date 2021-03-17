@@ -1,0 +1,3 @@
+Start.keys,Start.rt,Interval_stimulus,key_resp.keys,Response.keys,Response.rt,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran,"Participant ID (Your initials and the last 5 digits of your phone number, example: JS45323)",Session,date,expName,psychopyVersion,OS,frameRate,key_resp.rt
+space,3.522835,7.93864695,,space,0.287965,0,0,0,0,1,CPE111,1,2020-09-21_18h25.35.245,PVT builder,2020.1.3,Win32,60,
+,,3.522847567,"[""space"",""space"",""space""]",space,2.453995,1,0,1,0,1,CPE111,1,2020-09-21_18h25.35.245,PVT builder,2020.1.3,Win32,60,"[2.4785649999998967,2.7089599999999336,2.904309999999896]"

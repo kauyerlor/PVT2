@@ -1,0 +1,5 @@
+Start.keys,Start.rt,Interval_stimulus,key_resp.keys,Response.keys,Response.rt,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran,id,session,completion_token,date,expName,psychopyVersion,OS,frameRate
+space,4.476285,3.885846615,,space,0.342255,0,0,0,0,1,,2,,2021-03-17_15h47.06.768,PVT builder,2020.1.3,MacIntel,60
+,,8.820741169,,space,0.316625,1,0,1,0,1,,2,,2021-03-17_15h47.06.768,PVT builder,2020.1.3,MacIntel,60
+,,9.851719902,,space,0.337115,2,0,2,0,1,,2,,2021-03-17_15h47.06.768,PVT builder,2020.1.3,MacIntel,60
+,,6.099150671,,space,1.102615,3,0,3,0,1,,2,,2021-03-17_15h47.06.768,PVT builder,2020.1.3,MacIntel,60
